@@ -1,16 +1,12 @@
 ### Hi there 👋
+# Biodata
 
-<!--
-**nabilaazizah38/nabilaazizah38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Nama : Nabila Azizah
+# tanggal lahir : 08 maret 2008
+# pendidikan
+- sekloah menengah : SMA Sains Al Qur'an Wahid Hasyim
+- tahun masuk : 2023
+# hobi : masak
+## Media Sosial
+- email : nabilaazizah3888@gmail.com
+- IG : @nbl.zaaa38
